@@ -1,0 +1,3 @@
+Este é um código fonte em python do Jupyter Notebook. Você abri-lo instalando o python e o jupyter.
+O Jupyter é uma ferramenta conhecida para fazer códigos com anotações em python.
+Outra alternativa é abrir o Google Colab e fazer upload do arquivo, assim não é preciso instalar nada. 
